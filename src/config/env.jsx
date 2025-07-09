@@ -1,0 +1,1 @@
+export const ROLE_SECRET_KEY_1 = import.meta.env.VITE_ROLE_SECRET_KEY_1;
